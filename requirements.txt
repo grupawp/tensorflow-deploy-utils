@@ -1,0 +1,6 @@
+pandas
+requests
+tensorflow
+tensorflow_text
+requests_mock
+coverage

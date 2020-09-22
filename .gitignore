@@ -1,0 +1,11 @@
+.idea
+.vscode
+*.pyc
+tmp
+build
+dist
+*.egg-info
+*.tar
+.coverage
+.ropeproject
+venv
